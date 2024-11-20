@@ -1,2 +1,0 @@
-# apache-kafka
-apache-kafka
